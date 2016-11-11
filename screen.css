@@ -22,3 +22,28 @@ html {
   background-color: #181860;
   color: #F0F0F0;
 }
+
+h1 {
+  font-size: 1.728em; /* 31.104px */
+  line-height: 
+}
+
+p,
+ul {
+  padding-bottom: 1.222em; /* 22px */
+}
+
+li {
+  padding-bottom: 0.611em; /* 11px = half gridline*/
+}
+
+li:last-child {
+  padding-bottom: 0;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+/* ===== LAYOUT STYLES ===== */
